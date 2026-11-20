@@ -3,23 +3,25 @@
 I’m an aspiring full-stack developer learning by building practical projects.
 My projects are currently practice applications, but I’m using them to build a strong foundation in frontend and backend development.
 
-## Current Project.
+## Current Project
 I’m currently working on an e-commerce product page challenge from [Frontend Mentor](https://www.frontendmentor.io/) to strengthen my JavaScript and frontend development skills.
 
-## Tech Stack:
-My Tech stack is:
-### Frontend
-1. **HTML AND CSS**
-2. **JAVASCRIPT**
-3. **TAILWIND CSS**
+## Tech Stack
 
-### Backend
-1. **PYTHON**
+-  **HTML and CSS**
+- **JAVASCRIPT**
+-  **TAILWIND CSS**
+-  **PYTHON**
 
-## Projects:
-For my **Backend** part, I have built a [Student Result Management System](https://github.com/AloyEmmanuel/Student-Result-Management-System) project.
 
-For my **Frontend** part, I have built a [News Homepage](https://github.com/AloyEmmanuel/news-homepage) project, which I also got from [Frontend Mentor](https://www.frontendmentor.io/)
+## Projects
+
+- [Student Result Management System](https://github.com/AloyEmmanuel/Student-Result-Management-System)  
+  A Python application for recording student names and scores, validating input, and generating grades.
+
+- [News Homepage](https://github.com/AloyEmmanuel/news-homepage)  
+  A responsive frontend challenge built with HTML, CSS, and JavaScript.
 
 ## Contact
-You can reach out to me through [Email](mailto:aloyemmanuel34@gmail.com).
+
+You can reach me at [aloyemmanuel34@gmail.com](mailto:aloyemmanuel34@gmail.com).
